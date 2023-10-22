@@ -1,4 +1,4 @@
 # myfirstrepo
 This is my first repo in github
 <br>
-auther - subham kumar
+auther - subham roy
